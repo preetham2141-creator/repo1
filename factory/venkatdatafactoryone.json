@@ -1,0 +1,9 @@
+{
+	"name": "venkatdatafactoryone",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df8588b6-a358-48f0-aa60-f2da611e0356",
+		"tenantId": "6a055158-9e1b-4f6b-a38c-6905e93a37c9"
+	}
+}
