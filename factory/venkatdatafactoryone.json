@@ -2,7 +2,7 @@
 	"name": "venkatdatafactoryone",
 	"properties": {
 		"globalConfigurations": {
-			"PolicyValidationEnabled": "true"
+			"PolicyValidationEnabled": "false"
 		}
 	},
 	"location": "eastus",
