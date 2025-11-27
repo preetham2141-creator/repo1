@@ -1,5 +1,10 @@
 {
 	"name": "venkatdatafactoryone",
+	"properties": {
+		"globalConfigurations": {
+			"PolicyValidationEnabled": "false"
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
